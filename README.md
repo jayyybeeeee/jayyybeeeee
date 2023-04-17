@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi i am Jb legaspi 👋
+## third year collage of CCS in Central Philippine University 👋
+- ⚡ My biggest role model is my father
+- ⚡ My favorite ice cream flavor is ube 
+- ⚡ My favorite type of food is grilled liempo
+- ⚡ My  i like playing video games
+- ⚡ My perfect day is that it starts with a smile from my daughter.
+
 
 <!--
 **jayyybeeeee/jayyybeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
